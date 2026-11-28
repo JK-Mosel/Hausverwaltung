@@ -1,0 +1,11 @@
+6:Frieder Flechsig Antenne:8,00:1:12
+6:Rundfunk und Fernsehgebühren:55,08:4:12
+6:⁮Sammelrechnung Klarmobil:9,99:1:11
+1:AL-0058682982 Berufsunfähigkeit:37,39:1:13
+1:AS-9323952575 Unfallversicherung :16,42:3:13
+1: AS-9323952719 Unfallversicherung:24,86:3:13
+1:AS-9323953581 Unfallversicherung :16,42:3:13
+1:R480815031.5 ERGO Lebensversicherung:35,79:1:13
+1:AS-9324155618 Allianz PrivatSchutz:280,81:3:13
+6:⁮Sammelrechnung 1&1:19,99:1:11
+1:Netflix:4,99:1:12
